@@ -23,3 +23,12 @@ Code character (4), name character (10), designation character(30), dob date, sa
 3. Select all details from the table.
 4.Change the salary of employee code is e1.
 5. Delete a tuple from the table employee
+
+Lab 3:
+
+Questions: 
+
+1.	Create table employdetails with empid references to the empid in employee table
+2.	Display the details of employee table where empid in employedetails table
+3.	Display the details of employee table where empid notin employedetails table
+
