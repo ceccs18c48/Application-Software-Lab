@@ -32,3 +32,20 @@ Questions:
 2.	Display the details of employee table where empid in employedetails table
 3.	Display the details of employee table where empid notin employedetails table
 
+Lab 4:
+
+Questions:
+
+Create and insert values for the following tables department and instructor(with constraints)
+A.
+    Department table
+Code(primary key)
+Title 
+Dept_name(unique)
+Dept_id
+Salary(check –salary>2000)
+B.
+    Instructor table
+Name(not null)
+Code
+Id(default)
